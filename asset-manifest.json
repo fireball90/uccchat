@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/uccchat/static/css/main.9fd3ce44.css",
+    "main.js": "/uccchat/static/js/main.9cb4297c.js",
+    "static/js/787.8c95b53d.chunk.js": "/uccchat/static/js/787.8c95b53d.chunk.js",
+    "static/media/BG.jpg": "/uccchat/static/media/BG.661a1f65fefd821b1210.jpg",
+    "index.html": "/uccchat/index.html",
+    "main.9fd3ce44.css.map": "/uccchat/static/css/main.9fd3ce44.css.map",
+    "main.9cb4297c.js.map": "/uccchat/static/js/main.9cb4297c.js.map",
+    "787.8c95b53d.chunk.js.map": "/uccchat/static/js/787.8c95b53d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fd3ce44.css",
+    "static/js/main.9cb4297c.js"
+  ]
+}
