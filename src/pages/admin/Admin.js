@@ -15,7 +15,7 @@ export default function Admin() {
       method: 'GET',
       headers: {
           'Content-Type': 'application/json',
-          'Access-Control-Allow-Origin': 'https://81ef-91-147-254-140.ngrok-free.app/',
+          'Access-Control-Allow-Origin': '*',
           'ngrok-skip-browser-warning':true
       }
     })
@@ -37,7 +37,7 @@ export default function Admin() {
       method: 'GET',
       headers: {
           'Content-Type': 'application/json',
-          'Access-Control-Allow-Origin': 'https://81ef-91-147-254-140.ngrok-free.app/',
+          'Access-Control-Allow-Origin': '*',
           'ngrok-skip-browser-warning':true
       }
     })
